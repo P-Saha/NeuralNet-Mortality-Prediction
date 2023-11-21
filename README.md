@@ -23,8 +23,3 @@ The neural network model validation yielded a stable accuracy score of  70% on t
 
 ## Conclusion 
 Although the neural network model using more features yielded higher accuracy compared to the logistic regression model based only on APACHE prediction scores, both models had high specificity and severely low sensitivity. This could be partially attributable to the severe class imbalance in the data with only 0.0863% of patients experiencing death that, despite using techniques such as SMOTE and dropout layers to prevent overfitting, could not be entirely overcome. Future direction includes the use of more balanced data to ensure the models can learn to predict death, the application of regularization techniques to prevent overfitting, and more time dedicated to tuning hyperparameters and trying different activation functions and hidden layers.
-
-## Individual Contributions
-Ente Kang: Exploratory Data Analysis, Data Cleaning, Presentation Slides
-Gwen Eagle: Report Writing, Results Interpretation, Feature Selection
-Priyonto Saha: Preprocessing, Modeling (Neural Network and Logistic Regression)
