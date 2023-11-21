@@ -1,5 +1,5 @@
 # Mortality Prediction with Deep Learning
-Ente Kang, Gwen Eagle, Priyonto Saha
+Priyonto Saha, Ente Kang, Gwen Eagle
 
 ## Introduction 
 The ability to accurately predict mortality in the first 24 hours following admission to an Intensive Care Unit (ICU) is a tool that could provide significant benefit to individual patients and their families and the health care system overall. The intensive medical supervision in the ICU  provides a wealth of data that could be leveraged to inform the risk-benefit profile of medical interventions, evaluate the treatment options against palliative care and aid high-stakes decision making for clinicians and patient families. It would provide invaluable information to families as they emotionally and practically prepare for potential likely outcomes, and help them make time-sensitive decisions about end-of-life care. Moreover, mortality risk assessment can improve hospital-level planning and resource allocation, ensuring that hospitals are equipped in both personnel and medical equipment to meet the demands of a particular ICU patient load.
