@@ -1,4 +1,4 @@
-# Mortality Prediction with Deep Learning
+# Mortality Prediction with Neural Nets
 Priyonto Saha, Ente Kang, Gwen Eagle
 
 ## Introduction 
